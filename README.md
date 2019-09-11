@@ -17,13 +17,14 @@
 > 제작 기간
 - 2017.12 ~ 2018.01 (1개월)
 
----
-
+> 역할
 - 메인씬 게임씬 제작
 - 주요 모듈 개발(Cat클래스, 터치이벤트 처리, 게임로직))
 
-YouTubue: https://youtu.be/GtGPppV7AMQ
+---
 
 * 메뉴씬: Classes/MenuScene.h .cpp
 * 게임씬: Classes/GameScene.h .cpp
 * 캐릭터: Classes/Cat.h .cpp
+
+YouTubue: https://youtu.be/GtGPppV7AMQ
